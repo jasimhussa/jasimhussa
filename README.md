@@ -79,14 +79,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&layout=compact)
 
 ---
 
